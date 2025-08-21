@@ -6,7 +6,6 @@ A React-based Customer Relationship Management System (CRMS) to manage customer 
 
 - [Overview](#overview)  
 - [Features](#features)  
-- [Demo](#demo)  
 - [Tech Stack](#tech-stack)  
 - [Getting Started](#getting-started)  
   - [Prerequisites](#prerequisites)  
@@ -32,10 +31,6 @@ This project is a Customer Relationship Management System built with React. It a
 - **Mobile-Responsive Design** – Optimized for tablets and phones.  
 
 *(Feel free to adjust this based on actual features the app supports.)*
-
-## Demo
-
-*(Optional: Insert screenshots or a link to a live demo here.)*
 
 ## Tech Stack
 
